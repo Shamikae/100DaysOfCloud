@@ -4,10 +4,10 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- Today I got started by copying the 100DaysOfCloud template. Feeling excited to start this journey.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/shamikaearle_100daysofcloud-activity-6830996659917344768-KZ-K)
+[Tweet](https://twitter.com/mika_msLee/status/1425232545168470017?s=20)

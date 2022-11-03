@@ -16,13 +16,18 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Shamika's Cloud Journey
 
+
+Hi, Im Shamika! I am a software engineer looking to build and improve my skills in tech.   
+=======
 DevOps Engineer
 
-[✍️ Tell us why you started this challenge]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I started this challenge to get hands on learning.
 
-- [Twitter](https://twitter.com/username)
+At the end of this challenge I want to be equipped with the skills to enter a cloud career. I would like to present projects to potential employers
+
+
+- [Twitter](https://twitter.com/mika_mslee)
 - [LinkedIn](https://www.linkedin.com/in/shamikaearle)
 
 ## Stepping out the door
